@@ -72,7 +72,3 @@ pip install -r requirements.txt
 - Eğer kamera başlatılamazsa, `main.py` dosyasında kamera ID'sini kontrol edin
 - Model dosyaları eksikse, uygulama başlangıçta uyarı verecek ve indirme linklerini gösterecektir
 - Görüntü işleme performansı için yeterli RAM ve işlemci gücü gereklidir
-
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır.
